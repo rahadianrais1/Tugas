@@ -1,0 +1,5 @@
+Git adalah tools yang umum digunakan untuk pengembangan software yang berfungsi untuk mengontrol versi ataupun proyek manajemen kode perangkat lunak dan memiliki keunggulan seperti dapat menambahkan code secara parallel dan memungkinkan untuk membuat satu file saja lalu setiap revisi/perubahan dapat tersimpan didalamnya.
+
+Docker adalah salah satu platform yang dibangun berdasarkan teknologi container. Docker merupakan sebuah project open-source yang menyediakan platform terbuka untuk developer maupun sysadmin untuk dapat membangun, mengemas, dan menjalankan aplikasi dimanapun sebagai sebuah wadah (container) yang ringan
+
+Kubernetes merupakan platform open-source yang digunakan untuk melakukan manajemen workloads aplikasi yang dikontainerisasi, serta menyediakan konfigurasi dan otomatisasi secara deklaratif
